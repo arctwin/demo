@@ -30,7 +30,7 @@
 		<dependency>
 			<groupId>org.example</groupId>
 			<artifactId>jarLoader</artifactId>
-			<version>1.2</version>
+			<version>1.3</version>
 		</dependency>
 	</dependencies>
 
